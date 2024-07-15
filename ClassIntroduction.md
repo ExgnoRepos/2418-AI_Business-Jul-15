@@ -41,7 +41,7 @@ Please introduce yourself briefly using the following as a guide.
 
 ## Class Materials
 
-This is the [GitHub resources repository](https://github.com/ExgnoRepos/2415-CCAdmin-July-10) for the class
+This is the [GitHub resources repository](https://github.com/ExgnoRepos/2418-AI_Business-Jul-15) for the class
 
 Materials in the repository will be available until August 16, 2024
 

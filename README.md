@@ -7,6 +7,8 @@ This repository is available until Aug 16. 2024
 
 <note>Items will be added during the class</note>
 
+[Chatbots](https://www.chatbot.com/blog/chatbot-guide/)
+
 
 
 
